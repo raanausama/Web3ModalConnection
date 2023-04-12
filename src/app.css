@@ -1,0 +1,274 @@
+/* ----------- MATEIRAL TABEL ----------- */
+
+/* .css-1oskws-MuiTableRow-root {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+} */
+.css-15wwp11-MuiTableHead-root {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+/* for deployment */
+.css-1wbz3t9 {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+.css-1xii33e {
+  border-bottom: none !important;
+}
+/* for deployment table */
+.css-1bm6jcb {
+  border-radius: 20px !important;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%) !important;
+  border-radius: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  border-collapse: separate !important;
+  border-spacing: 1px !important;
+}
+
+.css-1xk5lcw-MuiTableCell-root {
+  border-bottom: 0px !important;
+}
+
+.css-3y95o6-MuiTableCell-root {
+  border-bottom: 0px !important;
+}
+/* for deployment */
+.css-165o4r0 {
+  border-bottom: 0px !important;
+}
+
+.MuiTableRow-footer {
+  border-radius: 0px !important;
+  box-shadow: 0px 0px 0px 0px !important;
+}
+
+.css-7i80e2-MuiInputBase-root-MuiOutlinedInput-root {
+  height: 40px !important;
+}
+
+.material-icons {
+  color: #284e91 !important;
+}
+.css-zitq05-MuiTable-root {
+  border-radius: 20px !important;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%) !important;
+  border-radius: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  border-collapse: separate !important;
+  border-spacing: 1px !important;
+}
+/* for deployment */
+.css-1bm6jcb {
+  border-radius: 20px !important;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%) !important;
+  border-radius: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  border-collapse: separate !important;
+  border-spacing: 1px !important;
+}
+
+.css-v83xfb-MuiTableCell-root-MuiTablePagination-root {
+  border-bottom: 0px !important;
+}
+.css-1xi0vvx-MuiTableCell-root {
+  border-bottom: 0px !important;
+}
+/* ----------- MATEIRAL ATBEL ----------- */
+
+/* ----------- MUI DATA GRID -----------  */
+/* .css-yrdy0g-MuiDataGrid-columnHeaderRow {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  width: 100%;
+  color: #284e91;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+} */
+
+/* .css-15wwp11-MuiTableHead-root {
+  background: #ffffff !important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 20px !important;
+  margin-bottom: 10px;
+  width: 100%;
+  color: #284e91 !important;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+} */
+
+/* .css-gk54en-MuiDataGrid-root .MuiDataGrid-row {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.css-gk54en-MuiDataGrid-root .MuiDataGrid-cell {
+  border-bottom: 0px;
+}
+.css-1xk5lcw-MuiTableCell-root {
+  border-bottom: 0px;
+} */
+
+/* filter styling */
+
+/* .css-1j9kmqg-MuiDataGrid-toolbarContainer {
+  background-color: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 50px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 8px;
+  gap: 20px;
+} */
+/* ----------- MUI DATA GRID -----------  */
+
+@media only screen and (max-width: 550px) {
+  .css-8fev7h-MuiButtonBase-root-MuiButton-root {
+    padding: 5px !important;
+  }
+}
+.css-8fev7h-MuiButtonBase-root-MuiButton-root {
+  background-color: #284e91 !important;
+  color: white !important;
+}
+/* for pagination color at the time of deployment */
+.css-nccjia {
+  background-color: #284e91 !important;
+  color: white !important;
+}
+
+/* .css-gl260s-MuiDataGrid-columnHeadersInner {
+  width: fit-content;
+} */
+
+/* width */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #818181;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #bd9a5f;
+}
+/* material table search bar */
+
+.css-j80ow0-MuiInputBase-root-MuiInput-root:after {
+  border-bottom: transparent !important;
+}
+.css-j80ow0-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled):before {
+  border-bottom: transparent !important;
+}
+.css-j80ow0-MuiInputBase-root-MuiInput-root:before {
+  border-bottom: transparent !important;
+}
+.css-j80ow0-MuiInputBase-root-MuiInput-root {
+  filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25)) !important;
+  background-color: white !important;
+  border-radius: 50px !important;
+  padding: 5px !important;
+}
+/* for client side */
+.css-1hs6mo3-MuiInputBase-root-MuiInput-root{
+  filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25)) !important;
+  background-color: white !important;
+  border-radius: 50px !important;
+  padding: 5px !important;
+}
+.css-1hs6mo3-MuiInputBase-root-MuiInput-root:after {
+  border-bottom: transparent !important;
+}
+.css-1hs6mo3-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled):before {
+  border-bottom: transparent !important;
+}
+.css-1hs6mo3-MuiInputBase-root-MuiInput-root:before {
+  border-bottom: transparent !important;
+}
+/* filter button at every table  */
+
+@media only screen and (max-width: 500px) {
+  .css-6od3lo-MuiChip-label {
+    display: none !important;
+    border: none !important;
+  }
+  .css-19tekln-MuiButtonBase-root-MuiChip-root {
+    border: none !important;
+  }
+  .css-8tyre5-MuiButtonBase-root-MuiChip-root {
+    border: none !important;
+  }
+}
+/* for deployment filter  */
+
+@media only screen and (max-width: 500px) {
+  .css-9iedg7 {
+    display: none !important;
+    border: none !important;
+  }
+  .css-1gg77jf {
+    border: none !important;
+  }
+  .css-19u3xr {
+    border: none !important;
+  }
+}
+
+/* deployment css .css-1gg77jf */
+.css-12bv2ts {
+  filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25)) !important;
+  background-color: white !important;
+  border-radius: 50px !important;
+  padding: 5px !important;
+}
+.css-12bv2ts:before {
+  border-bottom: transparent !important;
+}
+.css-12bv2ts:not(.Mui-disabled):before {
+  border-bottom: transparent !important;
+}
+.css-12bv2ts:after {
+  border-bottom: transparent !important;
+}
+/* for deployment  */
+.css-wmy810 {
+  filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25)) !important;
+  background-color: white !important;
+  border-radius: 50px !important;
+  padding: 5px !important;
+}
+.css-wmy810:before {
+  border-bottom: transparent !important;
+}
+.css-wmy810:not(.Mui-disabled):before {
+  border-bottom: transparent !important;
+}
+.css-wmy810:after {
+  border-bottom: transparent !important;
+}
